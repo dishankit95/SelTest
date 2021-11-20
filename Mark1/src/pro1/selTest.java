@@ -20,7 +20,7 @@ public class selTest {
 	public ExtentTest test;
 	public ExtentReports extent;
  
-//yoo
+//yoos
 
  @BeforeMethod
  public void setup() {
